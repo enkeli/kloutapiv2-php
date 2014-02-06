@@ -1,5 +1,5 @@
 {
-  "name": "diginedbv/KloutAPIv2-PHP",
+  "name": "diginedbv/kloutapiv2-php",
   "description": "Simple PHP Wrapper for Klout API v2",
   "version": "2.0",
   "type": "library",
